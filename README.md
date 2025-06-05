@@ -1,6 +1,6 @@
 # VIIBE Gradient Generator
 
-A professional, modular gradient generator for JWildfire with advanced features and seamless compatibility.
+A modular gradient generator for JWildfire with advanced features.
 
 ![VIIBE Gradient Generator](docs/screenshot.png)
 
